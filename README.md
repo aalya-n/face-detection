@@ -5,6 +5,7 @@ It uses a webcam feed to detect human faces and draws a bounding rectangle aroun
 📂 Project Structure
 
 ├── FaceDetetctionCode.txt            # Main Python script for face detection
+
 ├── haarcascade_frontalface_default.xml  # Pre-trained Haar Cascade model
 
 
