@@ -2,6 +2,7 @@
 This project implements real-time face detection using OpenCV and the Haar Cascade Classifier.
 It uses a webcam feed to detect human faces and draws a bounding rectangle around them.
 
+
 📂 Project Structure
 
 ├── FaceDetetctionCode.txt            # Main Python script for face detection
