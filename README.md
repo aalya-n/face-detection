@@ -33,6 +33,7 @@ A window will open showing the webcam feed with detected faces highlighted.
 
 Press Q to quit.
 
+
 🛠 How It Works
 Load Haar Cascade Model – The script loads the pre-trained Haar Cascade classifier for frontal face detection.
 
@@ -43,6 +44,7 @@ Convert to Grayscale – The captured frame is converted to grayscale for proces
 Detect Faces – detectMultiScale() identifies faces in the frame.
 
 Draw Bounding Boxes – Detected faces are marked with green rectangles.
+
 
 📸 Example Output
 When running, the output will look similar to this:
